@@ -33,6 +33,10 @@ This project is a pomdoro timer for focus work. This pomodoro timer has a standa
 
 
 
+https://github.com/lucasmichels/exp_pomodoro-timer/assets/39132280/2ce520b4-4fac-40c9-8fa6-9016706d72f7
+
+
+
 ## Authors
 
 - [@lucasmichels](https://www.github.com/lucasmichels)
